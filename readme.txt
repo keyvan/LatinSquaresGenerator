@@ -1,4 +1,4 @@
-Image Resizer for .NET
+Latin Squares Generator
 Author: Keyvan Nayyeri & Scott Gartner
 Blog: http://keyvan.io
 Podcast: http://keyvan.fm
