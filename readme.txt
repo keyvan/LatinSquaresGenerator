@@ -6,7 +6,7 @@ Twitter: http://twitter.com/keyvan
 Contact Info: http://keyvan.tel
 ******************************************************************
 This is a .NET console application that generates Latin Squares
-for any given set of symbols (numbers). Latin Squares have
+for any given set of symbols (e.g., numbers). Latin Squares have
 applications in mathematics for optimization purposes.
 
 You can read more about Latin Squares on Wikipedia:
@@ -18,6 +18,10 @@ become a very expensive operation for higher number of symbols
 (numbers), so this implementation takes advantage of several
 techniques to optimize the process, however, the generation
 may still take minutes or hours to complete for higher orders.
+
+This implementation has the best and most efficient algorithm
+as far as I know, and uses several techniques to make the
+generation process faster and more efficient.
 
 This project was started by Keyvan Nayyeri and received some
 invaluable additions from Scott Gartner.
